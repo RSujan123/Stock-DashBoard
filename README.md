@@ -4,11 +4,6 @@ An interactive, enterprise-grade stock dashboard that visualizes historical tren
 
 ---
 
-## 🚀 Live Demo
-
-🔗 https://your-username-stock-dashboard.streamlit.app
-
----
 
 ## 🧠 Features
 
